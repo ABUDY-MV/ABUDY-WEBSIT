@@ -1,3 +1,2 @@
-git add
-git commit -m "final changes"
-git push orginal main
+how you look Saka and Ayemen?
+shall I continue or stop please tell your feelings.
